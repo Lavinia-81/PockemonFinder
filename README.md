@@ -17,7 +17,7 @@ Pokemon Finder is a simple web application that allows users to search for Pokem
 
 1. Clone the repository:  
     ```bash  
-https://github.com/Lavinia-81/PockemonFinder.git  
+   https://github.com/Lavinia-81/PockemonFinder.git:  
     ```  
 2. Navigate to the project directory:  
     ```bash  
