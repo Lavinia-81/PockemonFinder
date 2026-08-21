@@ -52,7 +52,7 @@ PockemonFinder/
 │
 ├── index.html        # Main interface
 ├── style.css         # Styling and layout
-├── app.js            # API calls and dynamic rendering
+├── main.js            # API calls and dynamic rendering
 │
 └── README.md         # Documentation
 ```
